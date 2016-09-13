@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:15476b20873baa3993d8f0466a61f085:ab382f9b12bbde4e0c8397f517e9e999:29d951dd2e846ac15932f03cb0a2fdb0$ -->
+<TextureAtlas imagePath="map_0.png">
+    <SubTexture name="alert_sound" x="969" y="2" width="42" height="46" frameX="-4" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="bike" x="2" y="1080" width="455" height="370"/>
+    <SubTexture name="exclamation" x="1013" y="2" width="9" height="27" frameX="-10" frameY="-1" frameWidth="29" frameHeight="29"/>
+    <SubTexture name="glass" x="2" y="439" width="587" height="639"/>
+    <SubTexture name="mode_day_night" x="837" y="249" width="64" height="64"/>
+    <SubTexture name="settings_day" x="761" y="2" width="102" height="102"/>
+    <SubTexture name="settings_day_down" x="865" y="2" width="102" height="102"/>
+    <SubTexture name="sleep_day" x="761" y="106" width="102" height="102"/>
+    <SubTexture name="sleep_day_down" x="865" y="106" width="102" height="102"/>
+    <SubTexture name="slider_OFF" x="761" y="210" width="74" height="37" frameX="-4" frameY="-4" frameWidth="81" frameHeight="44"/>
+    <SubTexture name="slider_ON" x="837" y="210" width="74" height="37" frameX="-4" frameY="-4" frameWidth="81" frameHeight="44"/>
+    <SubTexture name="slider_dot" x="969" y="50" width="32" height="32"/>
+    <SubTexture name="slider_dot_off" x="913" y="210" width="74" height="37" frameX="-4" frameY="-4" frameWidth="81" frameHeight="44"/>
+    <SubTexture name="slider_dot_on" x="761" y="249" width="74" height="37" frameX="-4" frameY="-4" frameWidth="81" frameHeight="44"/>
+    <SubTexture name="star" x="591" y="439" width="328" height="317"/>
+    <SubTexture name="status" x="969" y="84" width="20" height="50" frameX="-15" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="weave" x="2" y="2" width="757" height="435"/>
+</TextureAtlas>
